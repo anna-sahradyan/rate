@@ -1,0 +1,28 @@
+.about{
+    width: 100%;
+    position: relative;
+    height: 100vh;
+}
+.containerAbout{
+    width: 1200px;
+    margin: auto;
+    height: auto;
+}
+.about ul li{
+    padding:5px;
+    list-style-type: square;
+}
+.about a {
+    color:lightseagreen;
+
+}
+.about ul  ,h2{
+    list-style-type: none;
+    padding: 10px;
+
+}
+.lorem{
+    color: darkslategrey;
+    font-family: Roboto;
+    font-size: 17px;
+}

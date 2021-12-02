@@ -1,0 +1,23 @@
+.header{
+    display: grid;
+   grid-area: header;
+
+}
+
+.header-nav {
+    background: lightseagreen;
+}
+
+.header-nav li{
+    padding: 15px 25px 15px;
+}
+.navList{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.header-nav li, a, .header-nav li, a:visited {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}

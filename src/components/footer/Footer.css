@@ -1,0 +1,34 @@
+.footer{
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-area: footer;
+    background: lightseagreen;
+
+    bottom: 0;
+}
+.footer .footer-bottom {
+    background: lightseagreen;
+
+
+}
+.footer  ul li a {
+    line-height: 30px;
+    color: #fff;
+    position: relative;
+    margin-left: 23px;
+    display: block;
+    text-decoration: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.footer-title {
+    color: #fff;
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.footer-title  a{
+    color: #fff;
+    font-size: 1.4rem;
+    text-decoration: none;
+}

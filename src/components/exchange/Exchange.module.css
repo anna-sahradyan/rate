@@ -1,0 +1,21 @@
+.contentDiv {
+    width: 100%;
+    position: relative;
+    height: 100vh;
+
+}
+
+.contentList {
+    width: 1200px;
+    margin: auto;
+    height: auto;
+
+}
+
+.imgList {
+    position: relative;
+    margin-left: 500px;
+    padding: 10px;
+
+
+}
