@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import s from './Reate.module.css';
 import RateBox from "./RateBox";
 import Calc from "./Calc";
+import {API_KEY} from "../../data";
 
 
 class Rate extends Component {
@@ -17,7 +18,7 @@ class Rate extends Component {
     }
 
     getRate = () => {
-        fetch("https://v6.exchangerate-api.com/v6/48d28dde2b62717631e96ebe/latest/USD").then(data => {
+        fetch(`https://v6.exchangerate-api.com/v6/${API_KEY}/latest/USD`).then(data => {
 
             return data.json();
         })
