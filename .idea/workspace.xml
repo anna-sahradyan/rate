@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="889fe497-f321-40d1-bd97-a024ce70d975" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/rate/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rate/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
       <workItem from="1638468028545" duration="6763000" />
       <workItem from="1638477924754" duration="965000" />
       <workItem from="1643920462190" duration="542000" />
+      <workItem from="1644308215086" duration="282000" />
     </task>
     <servers />
   </component>
